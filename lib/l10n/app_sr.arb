@@ -1,0 +1,6 @@
+{
+   "@@locale": "sr",
+   "appName": "Wozy",
+   "onBoardingText": "🚗 Dobro došli u aplikaciju koja vam omogućava da na jednom mestu vodite evidenciju i primate obaveštenja za sva svoja vozila.\\n\\n\uD83D\uDCC5 Podesite podsetnike za registraciju, servise, zamenu guma, proveru ulja — i još mnogo toga. Sami birate koje vas notifikacije zanimaju.\\n\\n💰 Pratite troškove i održavajte vozila bez stresa.\\n\\n📋 Vaš virtuelni vozni park.",
+   "addVehicle" : "Dodaj vozilo"
+}
